@@ -1,0 +1,35 @@
+Bài toán Tank
+-Tank d?ch ,Tank ta ,map,Ð?n,Item
+1.Phân tích Tank d?ch Tank ta.
+
+-Thu?c tính c?a Tank :T?c d? ,Sát thuong ,Hình ?nh,T?a d? X và Y,hu?ng di chuy?n (Thay d?i XY theo hu?n di chuy?n)
+                     :di chuy?n
+		     :Phuong th?c b?n
+		     :Ki?m  tra chúng d?n.
+ 		     :pt ki?m tra va tr?m v?i map
+		    
+Tank ta:
+-Ð?n 
+-M?ng
+Tank d?ch:
+-Sinh hu?ng
+Ð?n:
+-T?c d? X Y
+-Hình ?nh 
+-Dichuyeern
+-Ki?m tra va ch?m v?i map
+-V?
+Map:
+-hình ?nh X Y, Bit
+-V?
+Phân tích d?i tu?ng qu?n lý game g?m các d?i tuwowngk 
+
+-tank ta:
+-tank d?ch <m?ng>
+-Ð?n ta <m?ng>
+-Ð?n d?ch <m?ng>
+-V? AI
+///////////////////////////
+có 5 d?i tu?ng-->có 5 class
+m?i class có Thu?c tính và Phuong th?c
+
